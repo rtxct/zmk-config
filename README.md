@@ -4,7 +4,7 @@
   
 A hand-soldered, split Cherry Corne V3.0 keyboard powered by nRF52840 microcontrollers and running ZMK firmware. It features both wired and Bluetooth connectivity.
 
-Each half is equipped with a 4-pin OLED screen displaying custom animated graphics, along with full per-key RGB and underglow lighting. The build is housed in a custom transparent [acrylic case](https://github.com/rafaeltxc/zmk-config/tree/main/housings), holding a 3000mAh lithium battery in each half that lasts over a week per charge with heavy use (with LEDs off and screen timeout enabled).
+Each half is equipped with a 4-pin OLED screen displaying custom animated graphics, along with full per-key RGB and underglow lighting. The build is housed in a custom acrylic case holding a 3000mAh lithium battery in each half that lasts over a week per charge with heavy use (with LEDs off and screen timeout enabled).
 
 The firmware is optimized for less finger movement. It supports QWERTY and Colemak base layouts, backed by a layer architecture including dedicated Number, Symbol, and Configuration layers designed to keep all essential inputs on the home row.
 
